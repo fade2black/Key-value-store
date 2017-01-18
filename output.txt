@@ -1,0 +1,178 @@
+3-th introduced node is assigned with the address: 4:0
+2-th introduced node is assigned with the address: 3:0
+1-th introduced node is assigned with the address: 2:0
+0-th introduced node is assigned with the address: 1:0
+7-th introduced node is assigned with the address: 8:0
+6-th introduced node is assigned with the address: 7:0
+5-th introduced node is assigned with the address: 6:0
+4-th introduced node is assigned with the address: 5:0
+9-th introduced node is assigned with the address: 10:0
+8-th introduced node is assigned with the address: 9:0
+4:0: CREATING 2cbEh=>value0
+2:0: CREATING 3iypm=>value49
+10:0: CREATING 3kQzh=>value17
+10:0: CREATING 4grBe=>value24
+8:0: CREATING 52vFA=>value34
+10:0: CREATING 5I7Ev=>value28
+2:0: CREATING 5MPDa=>value59
+3:0: CREATING 6Ez6D=>value63
+9:0: CREATING 8v7fk=>value97
+7:0: CREATING A0Kow=>value83
+3:0: CREATING AMUOc=>value26
+8:0: CREATING APWLQ=>value1
+4:0: CREATING AUcCA=>value45
+1:0: CREATING Ao7Z1=>value77
+3:0: CREATING B8OAz=>value65
+1:0: CREATING Byker=>value18
+4:0: CREATING CtDeK=>value17
+3:0: CREATING DCZcm=>value80
+6:0: CREATING DR7Xa=>value22
+9:0: CREATING DXevl=>value19
+4:0: CREATING EPzY3=>value19
+2:0: CREATING F0F7e=>value56
+1:0: CREATING FSvoq=>value8
+5:0: CREATING G9G7T=>value84
+5:0: CREATING HriCe=>value76
+1:0: CREATING IgZDs=>value91
+9:0: CREATING IkaNB=>value56
+10:0: CREATING J7EYA=>value44
+2:0: CREATING JOyGp=>value2
+2:0: CREATING JdhK3=>value92
+5:0: CREATING K9lx1=>value14
+1:0: CREATING L8eUp=>value92
+2:0: CREATING LGVrD=>value30
+5:0: CREATING LMGRG=>value87
+10:0: CREATING Mf39k=>value71
+4:0: CREATING MqUtY=>value39
+10:0: CREATING NBFfF=>value44
+8:0: CREATING O8nHL=>value24
+3:0: CREATING Od79F=>value28
+8:0: CREATING OeybN=>value26
+5:0: CREATING PAC2f=>value64
+3:0: CREATING QEAUn=>value16
+3:0: CREATING Qnuqr=>value47
+1:0: CREATING RdCam=>value62
+3:0: CREATING SD8Xb=>value98
+7:0: CREATING SdVNc=>value0
+10:0: CREATING SwQ1R=>value30
+10:0: CREATING TDQvZ=>value7
+4:0: CREATING TNZiv=>value1
+6:0: CREATING Ty7ZX=>value1
+10:0: CREATING Uhhkf=>value58
+5:0: CREATING VWfhM=>value10
+1:0: CREATING WwDGA=>value67
+3:0: CREATING XOWJG=>value1
+7:0: CREATING XacyM=>value32
+2:0: CREATING XvlGc=>value21
+9:0: CREATING YRnjT=>value66
+3:0: CREATING YkdNV=>value89
+7:0: CREATING Z46ax=>value51
+5:0: CREATING aMf0e=>value32
+1:0: CREATING az2XL=>value87
+3:0: CREATING bl9lw=>value19
+5:0: CREATING cwKFx=>value85
+8:0: CREATING d9wlw=>value12
+2:0: CREATING gDcfv=>value2
+3:0: CREATING hKXyZ=>value73
+1:0: CREATING hamDy=>value88
+2:0: CREATING iEGEo=>value62
+5:0: CREATING iRGqb=>value26
+4:0: CREATING ijlQt=>value40
+10:0: CREATING kEAVo=>value77
+4:0: CREATING kiuTN=>value30
+3:0: CREATING kkwth=>value6
+4:0: CREATING lsC99=>value46
+10:0: CREATING lyy63=>value88
+9:0: CREATING mFWtb=>value23
+3:0: CREATING nYuA4=>value12
+4:0: CREATING nkKDD=>value86
+4:0: CREATING nopc1=>value39
+2:0: CREATING oGcTk=>value14
+4:0: CREATING od7eZ=>value50
+7:0: CREATING ooyJr=>value98
+9:0: CREATING p5la6=>value83
+1:0: CREATING ps2xH=>value43
+5:0: CREATING qAFQ8=>value54
+4:0: CREATING sgPpL=>value68
+10:0: CREATING slPxG=>value63
+2:0: CREATING tSC3m=>value72
+9:0: CREATING usk4a=>value60
+5:0: CREATING vMkcO=>value30
+4:0: CREATING vr1GP=>value96
+4:0: CREATING vwss0=>value60
+5:0: CREATING wNywf=>value14
+5:0: CREATING wjTTQ=>value59
+6:0: CREATING x2Q3u=>value33
+7:0: CREATING xULrl=>value93
+7:0: CREATING xezLw=>value77
+9:0: CREATING yZoEe=>value93
+4:0: CREATING ykDQQ=>value62
+8:0: CREATING zD0FF=>value58
+
+Sent 100 create messages to the ring
+
+Reading a valid key.... ... .. . .
+4:0: Reading key 2cbEh
+4:0: Sending READ 2cbEh to 2:0
+4:0: Sending READ 2cbEh to 7:0
+4:0: Sending READ 2cbEh to 5:0
+7:0 received key 2cbEh => value0
+5:0 received key 2cbEh => value0
+2:0 received key 2cbEh => value0
+Quorum12
+
+Failed a replica node: 5:0
+
+Reading a valid key.... ... .. . .
+9:0: Reading key 2cbEh
+9:0: Sending READ 2cbEh to 2:0
+9:0: Sending READ 2cbEh to 7:0
+9:0: Sending READ 2cbEh to 5:0
+7:0 received key 2cbEh => value0
+2:0 received key 2cbEh => value0
+Quorum12
+
+Failed a replica node: 4:0
+
+Failed a replica node: 7:0
+
+Reading a valid key.... ... .. . .
+2:0: Reading key 2cbEh
+2:0: Sending READ 2cbEh to 2:0
+2:0: Sending READ 2cbEh to 7:0
+2:0: Sending READ 2cbEh to 4:0
+2:0 received key 2cbEh => value0
+timeout : READ, 2:0,2cbEh
+
+Reading a valid key.... ... .. . .
+10:0: Reading key 2cbEh
+10:0: Sending READ 2cbEh to 2:0
+10:0: Sending READ 2cbEh to 3:0
+10:0: Sending READ 2cbEh to 9:0
+9:0 received key 2cbEh => value0
+3:0 received key 2cbEh => value0
+2:0 received key 2cbEh => value0
+Quorum12
+
+Failed a non-replica node: 1:0
+
+Reading a valid key.... ... .. . .
+9:0: Reading key 2cbEh
+9:0: Sending READ 2cbEh to 2:0
+9:0: Sending READ 2cbEh to 3:0
+9:0: Sending READ 2cbEh to 9:0
+
+Reading an invalid key.... ... .. . .
+9:0: Reading key invalidKey
+9:0: Sending READ invalidKey to 3:0
+9:0: Sending READ invalidKey to 9:0
+9:0: Sending READ invalidKey to 8:0
+9:0 received key invalidKey => 
+9:0 received key 2cbEh => value0
+8:0 received key invalidKey => 
+3:0 received key invalidKey => 
+3:0 received key 2cbEh => value0
+2:0 received key 2cbEh => value0
+Quorum12
+replyCount == 2, value: 
+Failure
